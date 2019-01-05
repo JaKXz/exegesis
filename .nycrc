@@ -3,5 +3,6 @@
     "exclude": ["**/*.d.ts"],
     "include": ["src/**/*.ts"],
     "reporter": ["html", "text-summary", "lcov"],
-    "all": true
+    "all": true,
+    "cache": false
 }
